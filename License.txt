@@ -1,0 +1,43 @@
+AERVYX SOFTWARE LICENSE
+Version 1.0
+
+Copyright (c) 2026 Aervyx
+
+1. GRANT OF USE
+You are permitted to download, install, and use this software for
+personal or authorized purposes.
+
+2. REDISTRIBUTION
+You may not redistribute, mirror, re-upload, sell, or commercially
+distribute the software or its files without written permission from
+Aervyx.
+
+3. MODIFICATION
+You may not modify, reverse engineer, decompile, or attempt to bypass
+the software's security, licensing, authentication, or update systems
+without permission.
+
+4. OWNERSHIP
+The software, branding, original source code, artwork, and other
+original materials remain the property of Aervyx and their respective
+owners.
+
+5. NO WARRANTY
+The software is provided "AS IS", without warranties of any kind.
+Aervyx is not responsible for damage, data loss, or other problems
+resulting from the use or inability to use the software.
+
+6. UPDATES
+Aervyx may release updates, modifications, or discontinue support for
+the software at any time.
+
+7. VIOLATIONS
+Aervyx reserves the right to restrict access to the software or its
+services if these terms are violated.
+
+8. ACCEPTANCE
+By downloading, installing, or using the software, you acknowledge that
+you have read and agree to these terms.
+
+For permissions or questions regarding this license, contact the
+Aervyx project owner.
